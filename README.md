@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏠 Sensor Forecast Dashboard
 
 A local web dashboard for visualizing and validating ML models for air sensor predictions based on HomeAssistant data.
@@ -467,3 +468,6 @@ For questions or issues:
 ---
 
 **Happy Forecasting! 🚀📊**
+=======
+# Cloud-based-Environmental-Monitoring-
+>>>>>>> d9b7eae544b9934543c05dccfdd75c1f810763a0
